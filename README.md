@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adigun500
+- 👋 Hi, I’m Yusuf Raheem
 - 👀 I’m interested in data analyst
 - 🌱 I’m currently learning data analysis
 - 💞️ I’m looking to collaborate on sql, python
